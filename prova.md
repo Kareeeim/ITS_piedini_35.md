@@ -12,4 +12,8 @@ Queste sono le liste non ordinate.
 
 - Banane
 - Biscotti
-- GTX 5090
+- GTX 5090 
+- Crepes 
+    - Latte 200g 
+    - Farina 300g
+    - Zucchero 105g
